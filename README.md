@@ -1,2 +1,4 @@
-# PolyU-Beamer-Slides
-A template in Beamer for presentation slides of the HK PolyU.
+# Nonsmooth Analysis course project
+
+My presentation on the Moreau's sweeping process that I had done as a part of my Nonsmooth Analysis in Control and Optimization (EE6431) coursework in the Jan.-May 
+2025 semester.
